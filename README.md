@@ -1,4 +1,4 @@
-# montavistamun-graphics
+# Monta Vista MUN Graphics
 
 This repository contains graphics for Monta Vista MUN. To use these designs with G Suite services, please consult the [Design Resources](https://drive.google.com/drive/folders/1nfyKwX_gjtxmoT8p4e-wENJRNvE-Ptq3?usp=sharing) folder in the Drive.
 
