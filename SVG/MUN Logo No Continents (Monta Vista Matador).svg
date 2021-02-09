@@ -18,13 +18,13 @@
   <defs
      id="defs843" />
   <sodipodi:namedview
-     inkscape:current-layer="g1855"
+     inkscape:current-layer="g136"
      inkscape:window-maximized="0"
      inkscape:window-y="25"
      inkscape:window-x="0"
      inkscape:cy="194.19432"
      inkscape:cx="298.60654"
-     inkscape:zoom="1.0832349"
+     inkscape:zoom="0.99629791"
      inkscape:pagecheckerboard="false"
      showgrid="false"
      id="namedview841"
@@ -208,7 +208,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
      id="g136"
      inkscape:label="UN Logo No Continents Fewer rings -- 20px cutout"
      transform="translate(-6.129487,-22.188147)"
-     style="display:inline">
+     style="display:none">
     <path
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -264,7 +264,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
      id="g1855"
      inkscape:label="UN Logo No Continents -- 20px cutout"
      transform="translate(-6.129487,-22.188147)"
-     style="display:none;mix-blend-mode:normal">
+     style="display:inline;mix-blend-mode:normal">
     <path
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
