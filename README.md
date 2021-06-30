@@ -1,6 +1,6 @@
 # Monta Vista MUN Graphics
 
-This repository contains graphics for Monta Vista MUN. To use these designs with G Suite services, please consult the [Design Resources](https://drive.google.com/drive/folders/1nfyKwX_gjtxmoT8p4e-wENJRNvE-Ptq3?usp=sharing) folder in the Drive.
+This repository contains graphics for Monta Vista MUN. To use these designs with Google Workspace services, please consult the [Design Resources](https://drive.google.com/drive/folders/1nfyKwX_gjtxmoT8p4e-wENJRNvE-Ptq3?usp=sharing) folder in the Drive. [This file](https://docs.google.com/presentation/d/1S73qZxO8ZfxSX6TiNggLAUMElTiNzWMa3onrMSGgRls/edit?usp=sharing) is usually your best bet, but if you’re looking for something specific (e.g. a presentation template or a Google Forms banner image) there might be something purpose-made for that already.
 
 ## Directory Structure
 
