@@ -16,6 +16,10 @@ root
 
 The `PNG` and `SVG` folders contain finished designs. On the off chance that you're looking for a previous design, the `Old Designs` folder is your best bet. `Drafts` contains only unfinished designs.
 
-## Why is there only one SVG file?
+## Not sure which file to download?
 
-The SVG file should contain multiple layers with different variations of the components. I recommend using the layers for 20px cutouts which I've found works best at a range of different sizes. There is one layer for the UN logo without continents and with a 20px border around the matador, and another layer that is the same design but with fewer latitudinal rings on the globe.
+If you’re looking for an SVG but aren’t sure which version will work best for your purposes, the [master copy](SVG/MUN Logo (Master Copy).svg) file contains several different layers that you can toggle, including options for the number of rings in the globe and the width of the border around the matador.
+
+## Looking for optimized files?
+
+Optimized SVGs (generated with [SVGO](https://github.com/svg/svgo)) are available in the [`SVG/minified`](SVG/minified) folder.
