@@ -18,7 +18,7 @@ The `PNG` and `SVG` folders contain finished designs. On the off chance that you
 
 ## Not sure which file to download?
 
-If you’re looking for an SVG but aren’t sure which version will work best for your purposes, the [master copy](SVG/MUN Logo (Master Copy).svg) file contains several different layers that you can toggle, including options for the number of rings in the globe and the width of the border around the matador.
+If you’re looking for an SVG but aren’t sure which version will work best for your purposes, the [master copy](SVG/MUN%20Logo%20(Master%20Copy).svg) file contains several different layers that you can toggle, including options for the number of rings in the globe and the width of the border around the matador.
 
 ## Looking for optimized files?
 
